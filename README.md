@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Nikhil 👋
 
-<!--
-**nikhilsisotiya/nikhilsisotiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | Aspiring Software Engineer  
+💻 Skills: C++, DSA, Java, Python, HTML, CSS, JavaScript  
+🚀 Interested in Backend & Problem Solving  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- C++
+- Python
+- Java
+- Git & GitHub
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Currently Learning
+- Data Structures & Algorithms
+- Web Development
+- Problem Solving
+
+### 📫 Connect with me
+- **LinkedIn**: [nikhilyadav](https://linkedin.com/in/nikhilyadav)
+- **Email**: yadavsbh1225@gmail.com
+- **Portfolio**: https://nikhilyadav.com
+
+---
+**Let's build something amazing together!** 🚀
