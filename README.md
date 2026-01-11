@@ -17,9 +17,7 @@
 - Problem Solving
 
 ### 📫 Connect with me
-- **LinkedIn**: [nikhilyadav](https://linkedin.com/in/nikhilyadav)
+- **LinkedIn**: [nikhilyadav](https://linkedin.com/in/nikhil-sisotiya)
 - **Email**: yadavsbh1225@gmail.com
-- **Portfolio**: https://nikhilyadav.com
-
 ---
 **Let's build something amazing together!** 🚀
